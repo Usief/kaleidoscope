@@ -24,6 +24,3 @@ information:
 This should work in all browsers, but we'll be using Chrome/Chromium in the
 labs, so it's probably best to use that.
 
-Also, if you do make a cool sketch, don't push the changes back up to the
-"template" repo (you probably don't have permission to do that anyway). Instead,
-create a new GitLab repo and push it up there.
